@@ -3,6 +3,7 @@ March 2022
 
 This project implements the STOMP algorithm in Matlab to plan trajectories for 6-DOF robotic arms to manouvre within an obstacle-laden course. The video below demonstrates the performance of the algo in a sample scenario.
 
+https://user-images.githubusercontent.com/59247141/180116869-c7392698-58e9-48ca-806e-5dc9c6c425e9.mp4
 
 ## STOMP
 
